@@ -1,5 +1,5 @@
 Package: com.randy420.taidependscoolstar
-Name: Theos Auto Installer
+Name: Theos Auto Installer Dependencies for Coolstar
 Depends: theos-dependencies
 Conflicts: com.randy420.taidependsother, org.theos.dependencies
 Architecture: iphoneos-arm
