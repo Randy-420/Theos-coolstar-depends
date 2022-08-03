@@ -1,6 +1,6 @@
 Package: com.randy420.taidependscoolstar
 Name: Theos Auto Installer Dependencies for Procursus based jailbreaks
-Depends: clang, odcctools, curl, git, grep, perl, rsync, unzip, xz-utils, make, ldid, plutil, com.kabiroberai.swift-toolchain, com.opa334.ccsupport, xar, lz4
+Depends: odcctools, xz-utils, plutil | com.bingner.plutil, lz4
 Conflicts: com.randy420.taidependsother, org.theos.dependencies
 Architecture: iphoneos-arm
 Description: Dependencies for Procursus based jailbreaks (known as coolstar jailbreaks)
@@ -8,7 +8,7 @@ Depiction: https://Randy-420.GitHub.io/depic/taidependscoolstar.html
 Homepage: https://theemeraldisle.family
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Author: Randy420 <randy.skinner@hotmail.com>
-Version: 0.2
+Version: 0.3
 Replaces: com.randy420.taidependsother, org.theos.dependencies, theos-dependencies
 Section: System
 Tag: role::hacker
